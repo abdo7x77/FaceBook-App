@@ -4,7 +4,7 @@ import StoryCard from './StoryCard';
 const stories = [
   {
     name: "Abdo Ismail",
-    src: "https://scontent.fcai19-5.fna.fbcdn.net/v/t39.30808-6/466104779_940900997884465_6988365680746751153_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGtHpoU-eaIQNBVQXInz2zUxAH5Jl1pMerEAfkmXWkx6reQ5LCcaf-eydMdLKD1DnDz5ME4aOr5uhFn9M23N50E&_nc_ohc=KQTy9LG-e8MQ7kNvgF1lG9f&_nc_zt=23&_nc_ht=scontent.fcai19-5.fna&_nc_gid=ABmeraXJl90-rUlXta3tW7l&oh=00_AYDzHyxqJSFkts4wbUSV3NAEocWpxazYjRIOnwnq0MaBfA&oe=6755A5DB",
+    src: "https://scontent.fcai19-5.fna.fbcdn.net/v/t39.30808-6/471665472_970124491628782_3667810226357143319_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=D52BHm_oI6IQ7kNvwH1t5sn&_nc_oc=Adn8TCqRxltCZtH1jGL7-DM3TNABKdPKO_tOp26OME0_xj2dAVrc2dAZi37JHguz4IA&_nc_zt=23&_nc_ht=scontent.fcai19-5.fna&_nc_gid=dL8EaadAeqTTWex7Z4YRnQ&oh=00_AfFL1k0dTcqufbBpxENGz3FsN70tPFLeqqFb4dy_cMB0cA&oe=680A534D",
     profile: "https://scontent.fcai19-5.fna.fbcdn.net/v/t39.30808-6/466104779_940900997884465_6988365680746751153_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGtHpoU-eaIQNBVQXInz2zUxAH5Jl1pMerEAfkmXWkx6reQ5LCcaf-eydMdLKD1DnDz5ME4aOr5uhFn9M23N50E&_nc_ohc=KQTy9LG-e8MQ7kNvgF1lG9f&_nc_zt=23&_nc_ht=scontent.fcai19-5.fna&_nc_gid=ABmeraXJl90-rUlXta3tW7l&oh=00_AYDzHyxqJSFkts4wbUSV3NAEocWpxazYjRIOnwnq0MaBfA&oe=6755A5DB",
   },
   {
